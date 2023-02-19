@@ -1,2 +1,2 @@
-# landing-pages
-In this repository, i will create various landing pages of static websites
+# Project Beginner
+Beginner project with vanila html css and js
